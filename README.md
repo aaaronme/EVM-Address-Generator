@@ -1,6 +1,6 @@
-## Generate an EVM Address of your choice ! 
+# Generate an EVM Address of your choice ! 
 
-# replace `suffix` and `prefix` with your desired begginning and ending! 
+### replace `suffix` and `prefix` with your desired beginning and ending! 
 Node: the Longer the longer it takes to find an address! So keep it short! 
 For no desired `suffix` or `prefix` just give it an empty string `""`
 
