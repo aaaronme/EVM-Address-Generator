@@ -17,3 +17,6 @@ The counter only counts the loops not the generated addresses.
 So if you have 3 goroutines and the counter is at 1 million, you generated about 3 million addresses.
 
 To stop the script, just use ctrl + C for mac and (windows+X for windows)
+
+Setup Go: 
+https://www.youtube.com/watch?v=dgIh-VYcWYw
